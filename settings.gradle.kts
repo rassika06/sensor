@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "sensor"
+rootProject.name = "ex5"
 include(":app")
  

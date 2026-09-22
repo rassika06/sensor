@@ -1,4 +1,4 @@
-package com.example.sensor;
+package com.example.ex5;
 
 import org.junit.Test;
 
